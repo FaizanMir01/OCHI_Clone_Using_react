@@ -4,7 +4,8 @@ const Landing = () => {
     <div className="w-full h-screen bg-[#f1f1f1] py-1">
         <div className="heading mt-52">
             {["We create", "EYE-OPENING","presentations"].map((item,index)=>(
-                 <div key={index} className="masker px-20">
+                 <div key={index} className="masker px-20 flex">
+                {index===1 && (<div className="w-[8vw] h-[4.7vw] rounded-md bg-green-600 relative top-[1vw]"></div>)}
                  <h1  className='text-9xl uppercase font-semibold leading-[7rem] tracking-tighter'>{item}</h1>
              </div>
             ))}
