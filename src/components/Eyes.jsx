@@ -16,7 +16,7 @@ const Eyes = () => {
     })
   return (
     <div className="w-full h-screen overflow-hidden">
-        <div className="relative w-full h-full bg-cover bg-center" style={{ backgroundImage: `url(${eyesBack})` }}>
+        <div data-scroll data-scroll-speed="-.7" className="relative w-full h-full bg-cover bg-center" style={{ backgroundImage: `url(${eyesBack})` }}>
             <div className="flex items-center justify-center gap-10 absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]">
                 <div className="eye size-[13vw] bg-zinc-100 rounded-full flex justify-center items-center">
                     <div className="relative inner h-2/3 w-2/3 bg-zinc-900 rounded-full flex justify-center items-center">
