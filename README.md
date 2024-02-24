@@ -8,4 +8,6 @@ Not Responsive
 ## output shots
 1.
 <img src="./src/assets/ScreenShot1.png">
+2.
+<img src="./src/assets/screenShot2.png">
 
