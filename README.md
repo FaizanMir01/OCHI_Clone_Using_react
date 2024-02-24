@@ -2,8 +2,7 @@
 
 ## ochi Website Clone Front-End 
 
-I created the replica of ochi.design website using react and Tailwind. 
-Not Responsive 
+I created the replica of few  sections ochi.design website using react and Tailwind. For scrolling animations i have used Locomotive  and framer Motion. 
 
 ## output shots
 1.
