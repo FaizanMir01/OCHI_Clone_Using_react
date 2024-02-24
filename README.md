@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ochi Website Clone Front-End 
 
-Currently, two official plugins are available:
+I created the replica of ochi.design website using react and Tailwind. 
+Not Responsive 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## output shots
+1.
+<img src="./src/assets/ScreenShot1.png">
+
